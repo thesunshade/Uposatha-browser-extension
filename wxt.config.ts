@@ -9,11 +9,11 @@ export default defineConfig({
     action: {
       default_title: "Next poya day",
       default_icon: {
-        128: "images/full.png",
+        128: "icon/128.png",
       },
     },
     icons: {
-      128: "images/full.png",
+      128: "icon/128.png",
     },
     permissions: ["alarms"],
   },
