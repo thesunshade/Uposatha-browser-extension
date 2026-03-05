@@ -1,26 +1,32 @@
-Poya Date		Type
-01/02/2026	Full	Pannarasi (4) Friday
-01/17/2026	New	Pannarasi (5) Saturday
-02/01/2026	Full	Pannarasi (6) Sunday
-02/15/2026	New	Chatuddasee (7) Sunday
-03/02/2026	Full	Pannarasi (8) Monday
-03/17/2026	New	Pannarasi (1) Tuesday
-04/01/2026	Full	Pannarasi (2) Wednesday
-04/15/2026	New	Chatuddasee (3) Wednesday
-04/30/2026	Full	Pannarasi (4) Thursday
-05/15/2026	New	Pannarasi (5) Friday
-05/30/2026	Full	Pannarasi (6) Saturday
-06/13/2026	New	Chatuddasee (7) Saturday
-06/28/2026	Full	Pannarasi (8) Sunday
-07/13/2026	New	Pannarasi (9) Monday
-07/28/2026	Full	Pannarasi (10) Tuesday
-08/12/2026	New	Pannarasi (1) Wednesday
-08/27/2026	Full	Pannarasi (2) Thursday
-09/10/2026	New	Chatuddasee (3) Thursday
-09/25/2026	Full	Pannarasi (4) Friday
-10/10/2026	New	Pannarasi (5) Saturday
-10/25/2026	Full	Pannarasi (6) Sunday
-11/08/2026	New	Chatuddasee (7) Sunday
-11/23/2026	Full	Pannarasi (8) Monday
-12/08/2026	New	Pannarasi (1) Tuesday
-12/23/2026	Full	Pannarasi (2) Wednesday
+Poya Date	Type	Details	Name
+01/02/2026	Full	Pannarasi Friday	Duruthu
+01/03/2026	Government	Saturday
+01/17/2026	New	Pannarasi Saturday
+02/01/2026	Full	Pannarasi Sunday	Navam
+02/15/2026	New	Chatuddasee Sunday
+03/02/2026	Full	Pannarasi Monday	Medin
+03/17/2026	New	Pannarasi Tuesday
+04/01/2026	Full	Pannarasi Wednesday	Bak
+04/15/2026	New	Chatuddasee Wednesday
+04/30/2026	Full	Pannarasi Thursday	Vesak
+05/01/2026	Government  Friday
+05/15/2026	New	Pannarasi Friday
+05/30/2026	Full	Pannarasi Saturday	Adhi
+06/13/2026	New	Chatuddasee Saturday
+06/28/2026	Full	Pannarasi Sunday	Poson
+06/29/2026  Government  
+07/13/2026	New	Pannarasi Monday
+07/28/2026	Full	Pannarasi Tuesday	Esala
+07/29/2026  Government  Wednesday
+08/12/2026	New	Pannarasi Wednesday
+08/27/2026	Full	Pannarasi Thursday	Nikini
+09/10/2026	New	Chatuddasee Thursday
+09/25/2026	Full	Pannarasi Friday	Binara
+09/26/2026  Government  Saturday
+10/10/2026	New	Pannarasi Saturday
+10/25/2026	Full	Pannarasi Sunday	Vap
+11/08/2026	New	Chatuddasee Sunday
+11/23/2026	Full	Pannarasi Monday	Ill
+11/24/2026  Government  Tuesday
+12/08/2026	New	Pannarasi Tuesday
+12/23/2026	Full	Pannarasi Wednesday	Uduvap
