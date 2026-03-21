@@ -1,4 +1,4 @@
-export type PoyaType = 'Full' | 'New';
+export type PoyaType = 'Full' | 'New' | 'Half' | 'Government';
 
 export interface PoyaEntry {
     date: Date;
@@ -48,6 +48,9 @@ export function findNextPoya(
 ): { entry: PoyaEntry; daysUntil: number } | undefined {
     const todayStart = startOfUTCDate(today);
     for (const entry of entries) {
+        // Only trigger on Full/New moon
+        if (entry.type !== 'Full' && entry.type !== 'New') continue;
+
         const diff = daysBetween(todayStart, entry.date);
         if (diff >= 0) {
             return { entry, daysUntil: diff };

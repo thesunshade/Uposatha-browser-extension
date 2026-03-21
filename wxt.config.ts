@@ -16,5 +16,14 @@ export default defineConfig({
       128: "icon/128.png",
     },
     permissions: ["alarms"],
+    browser_specific_settings: {
+      gecko: {
+        id: "{9608726a-2f8e-486e-aa12-d216967880b4}",
+        // @ts-ignore
+        data_collection_permissions: {
+          required: ["none"],
+        },
+      },
+    },
   },
 });

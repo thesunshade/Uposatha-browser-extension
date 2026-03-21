@@ -76,7 +76,7 @@ header h1 {
 .subtitle {
   margin: 0;
   font-size: 0.9rem;
-  font-weight: 500;
+  font-weight: 550;
   text-align: center;
   color: var(--primary-color);
   line-height: 1.4;
@@ -97,8 +97,29 @@ header h1 {
 
 table {
   width: 100%;
+  table-layout: fixed;
   border-collapse: collapse;
   font-size: 0.85rem;
+}
+
+th:nth-child(1),
+td:nth-child(1) {
+  width: 20%;
+}
+
+th:nth-child(2),
+td:nth-child(2) {
+  width: 20%;
+}
+
+th:nth-child(3),
+td:nth-child(3) {
+  width: 25%;
+}
+
+th:nth-child(4),
+td:nth-child(4) {
+  width: 10%;
 }
 
 th {
